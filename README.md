@@ -13,5 +13,5 @@ I now teach a Fundamentals of Engineering Lab I & II part time as adjunct aculty
 I hope to engage student engineers to work here on project of there choosing once
 I have had some time to learn the system.
 
-end of first note May 5, 2020
+end of second note May 5, 2020
 ####
