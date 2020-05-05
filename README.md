@@ -9,5 +9,5 @@ networks with disparate front end systems are available to communicate via
 wireless networks that are  somehow configured ien a dasychain fashion to get wider reach
 the trick will be to allow access to the wireless network and still configure your
 private nodes in your home or whatever.
-end of first note MAy 5, 2020
+end of first note May 5, 2020
 ####
