@@ -1,6 +1,6 @@
 # WWG1WGA
-Projects to help the aftertime
-this my first attempt at working with github and ghidra
+Projects to help the aftertime: this my first attempt at working with github and ghidra
+
 I am a retired research engineer with a PhD in Systems Engineering.
 I have 33 years working at a Naional Lab.
 I now teach a Fundamentals of Engineering Lab I & II part time as adjunct aculty.
